@@ -1,4 +1,4 @@
-# Introduction to MongoDB and Mongoose for Backend Beginners
+# Introduction to MongoDB and Mongoose for Backend Beginners.
 
 Welcome to the world of backend development!
 
